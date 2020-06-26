@@ -1,7 +1,7 @@
 {
   "name": "dynamic-input-code",
   "version": "0.1.0",
-  "homepage": "http://jpmayorga.github.io/dynamic-input-code",
+  "homepage": "https://jpmayorga.github.io/dynamic-input-code/",
   "private": true,
   "dependencies": {
     "@types/node": "^12.0.0",
