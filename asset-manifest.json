@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dynamic-input-code/static/css/main.7aac7935.chunk.css",
+    "main.js": "/dynamic-input-code/static/js/main.bf2c28f3.chunk.js",
+    "main.js.map": "/dynamic-input-code/static/js/main.bf2c28f3.chunk.js.map",
+    "runtime-main.js": "/dynamic-input-code/static/js/runtime-main.a3a19409.js",
+    "runtime-main.js.map": "/dynamic-input-code/static/js/runtime-main.a3a19409.js.map",
+    "static/js/2.7673eb7f.chunk.js": "/dynamic-input-code/static/js/2.7673eb7f.chunk.js",
+    "static/js/2.7673eb7f.chunk.js.map": "/dynamic-input-code/static/js/2.7673eb7f.chunk.js.map",
+    "index.html": "/dynamic-input-code/index.html",
+    "precache-manifest.dc28dd92cc8342bed34dbe2ecea17792.js": "/dynamic-input-code/precache-manifest.dc28dd92cc8342bed34dbe2ecea17792.js",
+    "service-worker.js": "/dynamic-input-code/service-worker.js",
+    "static/css/main.7aac7935.chunk.css.map": "/dynamic-input-code/static/css/main.7aac7935.chunk.css.map",
+    "static/js/2.7673eb7f.chunk.js.LICENSE.txt": "/dynamic-input-code/static/js/2.7673eb7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3a19409.js",
+    "static/js/2.7673eb7f.chunk.js",
+    "static/css/main.7aac7935.chunk.css",
+    "static/js/main.bf2c28f3.chunk.js"
+  ]
+}
