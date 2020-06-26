@@ -75,7 +75,7 @@ export function App() {
             ))}
           </div>
           <button className='priv-btn' onClick={handleVerifyCode}>
-            Continuar
+            View my code
           </button>
         </div>
       </div>
